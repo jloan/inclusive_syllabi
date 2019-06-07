@@ -1,8 +1,8 @@
 # Site settings
 title: Notes Toward A More Inclusive Syllabus
-tag_text: Good Inclusive Read
+tag_text: Notes Toward A More Inclusive Syllabus
 description: Overview of rethinking my syllabus.
-url: "http://127.0.0.1:4000"
+url: "https://jloan.github.io/inclusive_syllabi/"
 baseurl: ""
 
 font-awesome-include: true # make this false if you don't need font-awesome
