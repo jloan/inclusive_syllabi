@@ -49,6 +49,6 @@ Want to revise (?).
 
 ##### Footnotes:
 
-[^1]: The beginnings can be traced back further regarding issues of assessment. In particular, teaching in the UNC Writing Program where we were supported in using *contract grading* (see Elbow and Danielewicz) and in coming into contact with the work Asao B. Inoue around [anti-racist assessment practices](https://wac.colostate.edu/books/perspectives/inoue/). Will address that in a future iteration of this page.
+[^1]: The beginnings can be traced back further regarding issues of assessment. In particular, teaching in the UNC Writing Program where we were supported in using *contract grading* (see Elbow and Danielewicz) and in coming into contact with the work of Asao B. Inoue around [anti-racist assessment practices](https://wac.colostate.edu/books/perspectives/inoue/). Will address that in a future iteration of this page.
 
 
