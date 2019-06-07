@@ -2,67 +2,56 @@
 layout: default
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
 
-### Nice, clean, reading!
 
-Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
+### Beginnings
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* Attended a [SBCTC Accessibilty](https://sbctc.instructure.com/courses/1578604) Retreat. (2017)[^1]
+* Saw a presentation by Sara Godrick-Rab at AtD Conference on [basic needs security in the community College](https://medium.com/@saragoldrickrab/basic-needs-security-and-the-syllabus-d24cc7afe8c9). (2018)
+* At Race and Pedagogy Conference at UPS. Attended session about designing a "Writing Inclusively" section of UPS's [*SoundWriting Handbook*](https://soundwriting.pugetsound.edu/). (2018)
+* Via various venues (conferences, other instructors syllabi, etc.) I come into contact with  [acknowledgments](https://usdac.us/nativeland) of Native Land and Peoples. (2014 - present)
 
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Basic Needs Security Statement
 
-### With footnotes too!
+Sara Godrick-Rab's Basic Needs Statement:
+>Any student who has difficulty affording groceries or accessing sufficient food to eat every day, or who lacks a safe and stable place to live, and believes this may affect their performance in the course, is urged to contact the Dean of Students for support. Furthermore, please notify the professor if you are comfortable in doing so. This will enable her to provide any resources that she may possess.
 
-Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
+My Basic Needs Statement:
+>Any student who faces challenges securing their food or housing and believes this may affect their performance in the course is urged to contact [Student Support Services](https://www.pierce.ctc.edu/support-services). Furthermore, please notify me if you are comfortable in doing so. This will enable me to provide any resources that I may possess.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+>In short, if you feel like your performance in the class is being impacted by your experiences outside of class, please don’t hesitate to come and talk with me. I want to be a resource for you.
 
-### Add social sharing buttons
+Want to revise.
 
-Simply add the following line anywhere in your markdown:
+### Acknowledgement of Indigenous Land and Peoples
 
-<pre><code>{% raw  %}
-{% include sharing.html %}
-{% endraw %}
-</code></pre>
+Jentry Sayers syllabus statement:
+>As a faculty member who has the privilege to live and work as a guest on these lands, I acknowledge with respect the Lkwungen-speaking peoples on whose traditional territory the university stands and the Songhees, Esquimalt, and WSÁNEĆ peoples whose historical relationships with the land continue to this day.
 
-and get a nice responsive sharing ribbon.
+As of yet, I do not have a statement drafted. That is something I would like to work on. In preparation for drafting, I have been using *[Honor Our Native Land: A Guide and Call to Acknowledgement](https://drive.google.com/drive/u/0/my-drive).*
 
-{% include sharing.html %}
+A possible template (using Sayers):
+>As a faculty member who has the privilege to live and work as a guest on these lands, I acknowledge with respect the _______-speaking peoples on whose traditional territory the college stands and the ________, ____________, and _________ peoples whose historical relationships with the land continue to this day.
 
-Add this at the bottom, or the top, or between every other paragraph if you're desprate for social validation.
+How does this template align with best practices for composing statments of acknowledgement?
 
-Just remember to customize the buttons to fit your url in the `_includes/sharing.html` file. These buttons are made available and customizable by the good folks at kni-labs. See the documentation at [https://github.com/kni-labs/rrssb](https://github.com/kni-labs/rrssb) for more information.
 
-### Font awesome is also included
+### Equity, Diversity and Inclusion
 
-<i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i> Now you can use all the cool icons you want! [Font Awesome](http://fontawesome.io) is indeed awesome. But wait, you don't need this sweetness and you don't want that little bit of load time from the font awesome css? No problem, just disable it in the `config.yml` file, and it won't be loaded.
+Admittedly, I've lost a sense of where I sourced this from...but here is what's currently in my syllabus:
+>My goal is to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including race, gender, class, sexuality, religion, ability, etc.) To help accomplish this: If you have a name and/or set of pronouns that differ from those that appear in your official Pierce records, please let me know.  
 
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i>you can make lists...</li>
-  <li><i class="fa-li fa fa-check-square-o"></i>with cool icons like this,</li>
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>even ones that move!</li>
-</ul>
+>Creating this environment also includes my commitment to value the diversity of our language practices. School for many is often a place where judgements about language have been harnessed both intentionally and unintentionally to marginalize people and set-up barriers to success. The composition classroom is a place where we can come to more critically understand how language plays a role in issues of inclusion/exclusion in the world.
 
-If you need them, you can stick any of the [605 icons](http://fontawesome.io/icons/) anywhere, with any size you like. ([See documentation](http://fontawesome.io/examples/))
+>I (like all of us) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone, including me) that made you feel uncomfortable, please talk to me about it. Finally, and perhaps most importantly, as a participant in course discussions and work, I expect you to also strive to honor the diversity of your classmates.
 
-<i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;<i class="fa fa-paper-plane fa-3x"></i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x">
+Want to revise (?).
 
-### Add images to make your point
-
-Images play nicely with this template as well. Add diagrams or charts to make your point, and the template will fit them in appropriately.
-
-<img src="images/hello.svg" alt="sample image">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providing the base for this template with his excellent work, [solo](https://github.com/chibicode).
 
 <hr>
 
 ##### Footnotes:
 
-[^1]: This is a footnote. Click to return.
+[^1]: 
 
-[^2]: Here is another.
+
