@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-
-
 ### Beginnings
 
 * Attended a [SBCTC Accessibilty](https://sbctc.instructure.com/courses/1578604) Retreat. (2017)[^1]
@@ -25,7 +22,7 @@ Want to revise.
 
 ### Acknowledgement of Indigenous Land and Peoples
 
-Jentry Sayers syllabus statement:
+Jentry Sayer's [statement of acknowledgement](https://jentery.github.io/508v4/#acknowledgements-):
 >As a faculty member who has the privilege to live and work as a guest on these lands, I acknowledge with respect the Lkwungen-speaking peoples on whose traditional territory the university stands and the Songhees, Esquimalt, and WSÁNEĆ peoples whose historical relationships with the land continue to this day.
 
 As of yet, I do not have a statement drafted. That is something I would like to work on. In preparation for drafting, I have been using *[Honor Our Native Land: A Guide and Call to Acknowledgement](https://drive.google.com/drive/u/0/my-drive).*
@@ -52,6 +49,6 @@ Want to revise (?).
 
 ##### Footnotes:
 
-[^1]: 
+[^1]: The beginnings can be traced back further regarding issues of assessment. In particular, teaching in the UNC Writing Program where we were supported in using *contract grading* (see Elbow and Danielewicz) and in coming into contact with the work Asao B. Inoue around [anti-racist assessment practices](https://wac.colostate.edu/books/perspectives/inoue/). Will address that in a future iteration of this page.
 
 
