@@ -3,7 +3,7 @@ title: Notes Toward A More Inclusive Syllabus
 tag_text: Notes Toward A More Inclusive Syllabus
 description: Overview of rethinking my syllabus.
 url: "https://jloan.github.io/inclusive_syllabi/"
-baseurl: ""
+baseurl: "/inclusive_syllabi/"
 
 font-awesome-include: true # make this false if you don't need font-awesome
 
