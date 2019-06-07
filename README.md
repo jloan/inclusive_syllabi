@@ -1,5 +1,3 @@
-This is as Jekyll theme built to make single page websites, articles, or literary masterpieces readable anywhere.
+This site captures some notes on my work around making my syllabi more inclusive. 
 
-### [Demo and Documentation](https://adueck.github.io/good-clean-read)
-
-Built on top of <a href="http://chibicode.github.io/solo">Solo</a>, by [Shu Uesugi](https://github.com/chibicode)
+Read the [notes](https://jloan.github.io/inclusive_syllabi/).
